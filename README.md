@@ -11,3 +11,4 @@ My repo will contain models found on the before mentiond [Tensorflow models Repo
 
 If you get lost with the code and what it is doing, you can always upload it in chatgpt and get help/comments from there. You can also ask chatgpt to change the code to download a specific model you want as well. This is helpful with saving a little bit of time. 
 
+The .py files to run object detection can be found in the 'Tello-Edu' file. 
